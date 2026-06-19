@@ -1,0 +1,19 @@
+D:\Code\Auction and reale items\Auction and reale items\bin\Debug\net10.0-windows\Auction and reale items.exe
+D:\Code\Auction and reale items\Auction and reale items\bin\Debug\net10.0-windows\Auction and reale items.deps.json
+D:\Code\Auction and reale items\Auction and reale items\bin\Debug\net10.0-windows\Auction and reale items.runtimeconfig.json
+D:\Code\Auction and reale items\Auction and reale items\bin\Debug\net10.0-windows\Auction and reale items.dll
+D:\Code\Auction and reale items\Auction and reale items\bin\Debug\net10.0-windows\Auction and reale items.pdb
+D:\Code\Auction and reale items\Auction and reale items\obj\Debug\net10.0-windows\Auction_and_reale_items.Form1.resources
+D:\Code\Auction and reale items\Auction and reale items\obj\Debug\net10.0-windows\Auction_and_reale_items.Form2.resources
+D:\Code\Auction and reale items\Auction and reale items\obj\Debug\net10.0-windows\Auction_and_reale_items.Form3.resources
+D:\Code\Auction and reale items\Auction and reale items\obj\Debug\net10.0-windows\Auction and reale items.csproj.GenerateResource.cache
+D:\Code\Auction and reale items\Auction and reale items\obj\Debug\net10.0-windows\Auction and reale items.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Auction and reale items\Auction and reale items\obj\Debug\net10.0-windows\Auction and reale items.AssemblyInfoInputs.cache
+D:\Code\Auction and reale items\Auction and reale items\obj\Debug\net10.0-windows\Auction and reale items.AssemblyInfo.cs
+D:\Code\Auction and reale items\Auction and reale items\obj\Debug\net10.0-windows\Auction and reale items.csproj.CoreCompileInputs.cache
+D:\Code\Auction and reale items\Auction and reale items\obj\Debug\net10.0-windows\Auction and reale items.dll
+D:\Code\Auction and reale items\Auction and reale items\obj\Debug\net10.0-windows\refint\Auction and reale items.dll
+D:\Code\Auction and reale items\Auction and reale items\obj\Debug\net10.0-windows\Auction and reale items.pdb
+D:\Code\Auction and reale items\Auction and reale items\obj\Debug\net10.0-windows\Auction and reale items.genruntimeconfig.cache
+D:\Code\Auction and reale items\Auction and reale items\obj\Debug\net10.0-windows\ref\Auction and reale items.dll
+D:\Code\Auction and reale items\Auction and reale items\obj\Debug\net10.0-windows\Auction_and_reale_items.Properties.Resources.resources
